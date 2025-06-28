@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Jay Shree Krishna 🙏</h1>
-<h1 align="center">🛒 Amazon Preparation 2025</h1>
+<h1 align="center">🛒 DSA Preparation 2025</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge" alt="Focus DSA Badge"/>
