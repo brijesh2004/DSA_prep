@@ -2,7 +2,7 @@
 | Status | Topic                      | Description                              |
 |--------|----------------------------|------------------------------------------|
 | ✅     | **Dynamic Programming**     | Memoization, Tabulation, Patterns        |
-| 🔜     | **Recursion & Backtracking**| Subsets, N-Queens, Permutations          |
+| 🟢     | **Recursion & Backtracking**| Subsets, N-Queens, Permutations          |
 | 🔜     | **Bit Magic**               | Bitwise Ops, Set Bits, Power of Two      |
 | 🔜     | **Heap & Hash**             | Min/Max Heap, HashMap, Frequency         |
 | 🔜     | **Trie**                    | Insert/Search, Prefix Matching           |
